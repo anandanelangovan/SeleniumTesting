@@ -1,4 +1,4 @@
-package Tests;
+package testing;
 
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 
-public class SeleniumScript {
+public class NewTest {
 	WebDriver driver;
   @Test
   public void f() {
